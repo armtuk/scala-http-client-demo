@@ -1,0 +1,11 @@
+SCALA HTTP CLIENT DEMO
+======================
+
+Getting me running:
+
+Download the latest activator jar from typesafe and link or copy to this directly
+
+run 
+./activator ui
+
+And use the activator console to work with the project!
